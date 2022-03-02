@@ -6,7 +6,7 @@ I am Omar Kataa full stack web developer, I worked on several full-stack web app
 
 Skills: JS / NODE JS / MONGODB/ MYSQL/ REACT /  HTML / CSS/ JQUERY
 
-- 🔭 I’m currently working on this page. 
+
 
 
 
