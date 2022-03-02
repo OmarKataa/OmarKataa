@@ -22,4 +22,4 @@ Skills: JS / NODE JS / MONGODB/ MYSQL/ REACT /  HTML / CSS/ JQUERY
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='40' style="color:red">](bvbvbvbvv)  
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafacagri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarkataa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
