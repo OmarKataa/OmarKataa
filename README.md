@@ -18,3 +18,5 @@ Skills: JS / NODE JS / MONGODB/ MYSQL/ REACT /  HTML / CSS/ JQUERY
 [![Anurag'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=OmarKataa)](https://github.com/anuraghazra/github-readme-stats)
 
 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='40'>](bvbvbvbvv)  
